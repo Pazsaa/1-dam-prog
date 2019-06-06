@@ -1,0 +1,10 @@
+/**
+ *
+ * @author apazgarcia
+ */
+public class Ejercicio7 {
+    public static void main(String[] args){
+        Menu menu = new Menu();
+        menu.mostrarMenu();
+    }
+}
